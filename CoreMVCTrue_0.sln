@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMVCTrue_0", "CoreMVCTrue_0\CoreMVCTrue_0.csproj", "{AD5AA4DD-8F83-4A36-9569-B42E2F0CB5DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C8084D2-8B08-42D3-9A2D-3C47BEC72F41}"
+	ProjectSection(SolutionItems) = preProject
+		Kutuphaneler.txt = Kutuphaneler.txt
+		Odev.txt = Odev.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5AA4DD-8F83-4A36-9569-B42E2F0CB5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5AA4DD-8F83-4A36-9569-B42E2F0CB5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5AA4DD-8F83-4A36-9569-B42E2F0CB5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5AA4DD-8F83-4A36-9569-B42E2F0CB5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A6247C-0CAA-4867-B150-46BC9CBA88A9}
+	EndGlobalSection
+EndGlobal
