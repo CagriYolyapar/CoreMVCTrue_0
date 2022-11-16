@@ -8,6 +8,6 @@ namespace CoreMVCTrue_0.VMClasses
         public List<Category> Categories { get; set; }
         public Product Product { get; set; }
         public Category Category { get; set; }
-
+        //asdasdassad
     }
 }
