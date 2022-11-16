@@ -9,5 +9,7 @@ namespace CoreMVCTrue_0.VMClasses
         public Product Product { get; set; }
         public Category Category { get; set; }
         //asdasdassad
+
+        //Selam
     }
 }
